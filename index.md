@@ -2,28 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/6740_Project_Final_Report.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dog Breed Classification via Images](/6740_Project_Final_Report.pdf)
+<img src="images/beagle.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Yelp Review Sentiment Analysis](/team130report.pdf)
+<img src="images/restaurant.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Coursework
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Machine Learning
+- Database System Concepts and Design
+- Deterministic Optimization
+- Bayesian Statistics
+- Data and Visual Analytics
+- Data Analytics for Business
+- Regression Analysis
+- Analytics Modeling
+- Computing for Data Analytics (Python)
+- Business Fundamentals for Analytics
 
 ---
 
