@@ -1,9 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Matt Sheahan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Georgia Tech <br>
+  MS Analytics '21 <br>
+  BS Mechanical Engineering '16
   <br><br>
-  Second description 
+  4+ years of experience in analytics with Fortune 50 companies <br>
+  Proficient with Python, SQL, R, and Tableau 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
