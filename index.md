@@ -5,11 +5,21 @@
 ### Projects 
 
 [Dog Breed Classification via Images](/6740_Project_Final_Report.pdf)
-<img src="images/beagle.jpg?raw=true"/>
+<img src="images/beagle.jpg"
+     width="400"
+     height="400"/>
 
 ---
 [Yelp Review Sentiment Analysis](/team130report.pdf)
-<img src="images/restaurant.jpg?raw=true"/>
+<img src="images/restaurant.jpg"
+     width="400"
+     height="400"/>
+
+---
+[ANOVA Braves Batting (2020 vs 2021)](/braves_batting_analysis.ipynb)
+<img src="images/braves_2020.jpg"
+     width="400"
+     height="400"/>
 
 ---
 
