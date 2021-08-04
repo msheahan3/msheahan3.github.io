@@ -16,8 +16,8 @@
      height="400"/>
 
 ---
-[ANOVA Braves Batting (2020 vs 2021)](/braves_batting_analysis.ipynb)
-<img src="images/braves_2020.html"
+[ANOVA Braves Batting (2020 vs 2021)](/braves_batting_analysis.html)
+<img src="images/braves_2020.jpeg"
      width="400"
      height="400"/>
 
