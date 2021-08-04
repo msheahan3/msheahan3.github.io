@@ -17,7 +17,7 @@
 
 ---
 [ANOVA Braves Batting (2020 vs 2021)](/braves_batting_analysis.html)
-<img src="images/braves_2020.jpeg"
+<img src="images/braves_2020.jpg"
      width="400"
      height="400"/>
 
