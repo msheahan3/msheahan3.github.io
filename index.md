@@ -2,22 +2,30 @@
 
 ---
 
-### Projects 
+### School Projects 
 
-[Dog Breed Classification via Images](/6740_Project_Final_Report.pdf)
+[Dog Breed Classification via Images (CS6740 Team Project)](/6740_Project_Final_Report.pdf)
 <img src="images/beagle.jpg"
      width="400"
      height="400"/>
 
 ---
-[Yelp Review Sentiment Analysis](/team130report.pdf)
+[Yelp Review Sentiment Analysis (CS6242 Team Project)](/team130report.pdf)
 <img src="images/restaurant.jpg"
      width="400"
      height="400"/>
 
 ---
+
+### Personal Projects 
 [ANOVA for Braves Batting (2020 vs 2021)](/braves_batting_analysis.html)
 <img src="images/braves_2020.jpg"
+     width="400"
+     height="400"/>
+
+---
+[Kaggle Titanic ML Competition](/titanic.html)
+<img src="images/titanic.jpg"
      width="400"
      height="400"/>
 
