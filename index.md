@@ -32,18 +32,18 @@
 
 ---
 
-### Coursework
+### Coursework - Masters in Analytics from Georgia Tech
 
-- Machine Learning
-- Database System Concepts and Design
-- Deterministic Optimization
-- Bayesian Statistics
-- Data and Visual Analytics
-- Data Analytics for Business
-- Regression Analysis
-- Analytics Modeling
-- Computing for Data Analytics (Python)
-- Business Fundamentals for Analytics
+- ISYE6740 - Machine Learning
+- CS6400 - Database System Concepts and Design
+- ISYE6669 - Deterministic Optimization
+- ISYE6669 - Bayesian Statistics
+- CDE6242 - Data and Visual Analytics
+- MGT6203 - Data Analytics for Business
+- ISYE6416 - Regression Analysis
+- ISYE6501 - Analytics Modeling
+- CSE6040 - Computing for Data Analytics (Python)
+- MGT8803 - Business Fundamentals for Analytics
 
 ---
 
