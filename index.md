@@ -19,6 +19,12 @@
 
 ### Personal Projects 
 ---
+[Predicting MLB Playoff Success with Machine Learning](/playoffs.html)
+<img src="images/ws_cele.jpg"
+     width="400"
+     height="400"/>
+     
+---
 [ANOVA for Braves Batting (2020 vs 2021)](/braves_batting_analysis.html)
 <img src="images/braves_2020.jpg"
      width="400"
