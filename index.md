@@ -19,7 +19,7 @@
 
 ### Personal Projects 
 ---
-[Predicting MLB Playoff Success with Machine Learning](/playoffs.html)
+[Predicting MLB Playoff Success with Machine Learning](/playoff.html)
 <img src="images/ws_cele.jpg"
      width="400"
      height="400"/>
